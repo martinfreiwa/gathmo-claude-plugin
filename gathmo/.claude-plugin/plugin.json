@@ -1,0 +1,16 @@
+{
+  "name": "gathmo",
+  "displayName": "Gathmo",
+  "version": "0.2.1",
+  "description": "Collect event memories, prepare QR materials, manage albums and connect photo booths.",
+  "author": {
+    "name": "Gathmo",
+    "url": "https://gathmo.com"
+  },
+  "homepage": "https://gathmo.com",
+  "license": "LicenseRef-Gathmo-Plugin",
+  "icon": "./assets/icon.png",
+  "supportUrl": "https://gathmo.com/help",
+  "privacyPolicyUrl": "https://gathmo.com/ai-assistants-privacy.html",
+  "termsOfServiceUrl": "https://gathmo.com/terms"
+}

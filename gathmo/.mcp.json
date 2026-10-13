@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "gathmo": {
+      "type": "http",
+      "url": "https://api.gathmo.com/mcp/gathmo-claude"
+    }
+  }
+}

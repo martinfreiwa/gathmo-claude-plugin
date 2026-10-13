@@ -1,0 +1,15 @@
+{
+  "name": "gathmo",
+  "description": "Gathmo for Claude: event albums for guests' photos, videos and voice messages.",
+  "owner": {
+    "name": "Gathmo",
+    "email": "hello@gathmo.com"
+  },
+  "plugins": [
+    {
+      "name": "gathmo",
+      "source": "./gathmo",
+      "description": "Collect event memories, prepare QR materials, manage albums and connect photo booths."
+    }
+  ]
+}
